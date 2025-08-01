@@ -8,7 +8,7 @@ responses = {
     "what is your name": "I'm a chatbot created to assist you!",
     "bye": "Goodbye! Have a great day!",
     "what can you do": "I can answer your questions, chat with you, and help with basic tasks!",
-    "who created you": "I was created by Satvika who loves AI!",
+    "who created you": "I was created by kavya who loves AI!",
     "tell me a joke": "Why did the computer go to the doctor? Because it had a virus!",
     "weather": "I can't fetch live weather updates yet, but it's always a great day to learn something new!",
     "favorite color": "I like all colors, but blue is often associated with intelligence!",
