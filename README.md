@@ -16,4 +16,4 @@ It uses if-else logic to respond to user inputs and has a **GUI chat interface.
 
  🛠 Tech Stack
 - Python 3.13
-- Tkinter (for GUI)
+- Tkinter (for GUI).
